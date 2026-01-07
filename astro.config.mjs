@@ -26,8 +26,8 @@ import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-cop
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://marblestack.github.io/",
-	base: "/",
+	site: "https://marblestack.github.io/marblestack/",
+	base: "/marblestack/",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({
