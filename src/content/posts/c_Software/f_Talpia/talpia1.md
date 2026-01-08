@@ -4,7 +4,7 @@ published: 2024-03-03
 tags: [Tool, Talpia]
 category: Log
 image: './imgs/thumb1.png'
-draft: true
+draft: false
 ---
 
 Category: Tutorial
