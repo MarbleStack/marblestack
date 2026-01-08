@@ -134,7 +134,7 @@ The rest of the values are for arcade game controls, and you can ignore them.
 
 The next thing I want you to look at is `mouse_position_recorder.py` under folder `src/identifier`. If you run this script, you should see something like this
 
-```text
+```txt
 🖱️  Mouse Position Recorder 🖱️
 
 ➡️  Hover your mouse over the desired position on the window.
@@ -144,7 +144,7 @@ The next thing I want you to look at is `mouse_position_recorder.py` under folde
 
 Follow the instruction, hover your mouse to a position (and make sure you have the window focused). Press a key on your keyboard (except 'Esc'). You should see something like this now
 
-```text
+```txt
 Recording {I}: [1481, 578]
 ```
 
@@ -154,7 +154,7 @@ This means that the program has recorded this key and associated it to where you
 After you are finished, press 'Esc'. Now you should see a table.
 
 
-```text
+```txt
 ⚠️ Stopping key 'Key.esc' pressed. ⚠️
 
 
@@ -179,7 +179,7 @@ The keys are just the keys you have pressed. Here I already have included some k
 After you pressed 'Enter', it will ask to you save the changes.
 
 
-```text
+```txt
 Do you want to save?[Y/N]
 ```
 
@@ -192,7 +192,7 @@ Now that we have the proportions, we still need to convert them back to absolute
 
 Do it like so
 
-```Python
+```py
 import tomllib
 from src.read import read_user_config
 from src.util.prop2pos import prop2pos
