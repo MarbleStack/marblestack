@@ -22,7 +22,7 @@ Create a GitHub repository card with the code `::github{repo="<owner>/<repo>"}`.
 
 ## Admonitions
 
-Following types of admonitions are supported: `note` `tip` `important` `warning` `caution`
+Following types of admonitions are supported: `note` `tip` `important` `warning` `caution` `hooray`
 
 :::note
 Highlights information that users should take into account, even when skimming.
