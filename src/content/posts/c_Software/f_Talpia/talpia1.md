@@ -1,7 +1,7 @@
 ---
 title: Talpia 1
 published: 2024-03-03
-tags: [Tool]
+tags: [Tool, Talpia]
 category: Log
 image: './imgs/thumb1.png'
 draft: true
