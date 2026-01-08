@@ -1,6 +1,6 @@
 ---
 title: Talpia 3
-published: 2024-03-24
+published: 2024-03-25
 tags: [Tool, Talpia]
 category: Log
 image: './imgs/thumb3.png'
@@ -11,6 +11,8 @@ Category: Tutorial
 
 
 Prerequisite: Basic Python
+
+::github{repo="Kolyn090/talpia"}
 
 <br>
 <br>
