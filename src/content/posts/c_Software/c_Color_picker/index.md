@@ -4,6 +4,7 @@ published: 2024-04-22
 tags: [Tool]
 image: './imgs/thumb.png'
 category: Tutorial
+description: 'An 8-digits hex code color picker, with alpha value.'
 draft: false
 ---
 
