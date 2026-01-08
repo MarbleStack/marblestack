@@ -69,7 +69,12 @@ Think about this, the problem can be simplified as <u>given a binary image, retu
 
 Let's see this example:
 
-![binary](./imgs/binary.png)
+<img 
+    src="/marblestack/imgs/ca/binary.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="binary"
+/>
 
 For now, let me convert this to ASCII Art. Create `binary_to_ascii_art.py` under `draw`.
 
@@ -171,9 +176,14 @@ goal "00000011000000001111011000000101110111100010111100101100101111111111101011
 
 Now I import this file into my Nonogram Solver, I got
 
-![talpia](./imgs/talpia.png)
+<img 
+    src="/marblestack/imgs/ca/talpia.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="talpia"
+/>
 
-# Step 5
+# Step 5️⃣
 Next, I want to analyze fedimser's code. In `Main.java`, I found
 
 ```java
@@ -328,7 +338,12 @@ I got the same result. This is what I called 'the two matrices' to form the puzz
 
 Now I should design the 'Draw' feature in UI. Here is my app's current UI layout.
 
-![ui-layout](./imgs/ui-layout.png)
+<img 
+    src="/marblestack/imgs/ca/ui-layout.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="ui-layout"
+/>
 
 The plan:
 1. Add a new button `Draw`
@@ -388,11 +403,22 @@ def finish_draw(self):
 
 The buttons in default mode:
 
-![default-mode](./imgs/default-mode.png)
+<img 
+    src="/marblestack/imgs/ca/default-mode.png" 
+    width="100" 
+    style="display:block; margin: 0 auto;"
+    alt="default-mode"
+/>
 
 The buttons in draw mode:
 
-![draw-mode](./imgs/draw-mode.png)
+<img 
+    src="/marblestack/imgs/ca/draw-mode.png" 
+    width="100" 
+    style="display:block; margin: 0 auto;"
+    alt="draw-mode"
+/>
+
 
 # Step 7️⃣
 
@@ -498,7 +524,12 @@ def finish_draw(self):
 
 After drawing and saving, I got
 
-![drawing](./imgs/drawing.png)
+<img 
+    src="/marblestack/imgs/ca/drawing.png" 
+    width="100" 
+    style="display:block; margin: 0 auto;"
+    alt="drawing"
+/>
 
 # Step 8️⃣
 
@@ -581,7 +612,12 @@ def get_binary_image(self):
 After everything's done. The app can finally draw puzzles. Here is the final result.
 
 
-![final-result](./imgs/final_result.png)
+<img 
+    src="/marblestack/imgs/ca/final_result.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="final_result"
+/>
 
 <br>
 <br>
