@@ -2,8 +2,6 @@
 title: Simple Guides for Fuwari
 published: 2000-04-01
 description: "How to use this blog template."
-tags: ["Fuwari", "Blogging", "Customization"]
-category: Guides
 draft: false
 ---
 

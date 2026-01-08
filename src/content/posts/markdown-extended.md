@@ -4,8 +4,6 @@ published: 2000-05-01
 updated: 2000-11-29
 description: 'Read more about Markdown features in Fuwari'
 image: ''
-tags: [Demo, Example, Markdown, Fuwari]
-category: 'Examples'
 draft: false 
 ---
 
