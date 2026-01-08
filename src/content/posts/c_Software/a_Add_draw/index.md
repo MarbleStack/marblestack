@@ -2,7 +2,7 @@
 title: Personal Log - Adding 'Draw' Feature
 published: 2025-01-08
 description: 'Write an interactive Nonogram puzzle maker.'
-image: './imgs/talpia.png'
+image: './imgs/thumb2.png'
 tags: [Game]
 category: Log
 draft: false
