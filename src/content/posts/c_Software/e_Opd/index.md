@@ -91,7 +91,14 @@ Not yet available.
 3. In `ContentView.swift`, change the field `langManager`'s `defaultPage` to the number of the page you just added. Ex. `defaultPage: 104` if your image is named `p104`.
 4. Choose a simulator (highly recommend iPads for higher precision) and run the project.
 5. You should now see something like below after everything has been fully loaded. Next, drag the red dot located in the left-upper corner of the image to anywhere you like.
-![pic3](/static/img/2-softwares/opd/pic3.png)
+
+<img 
+    src="/marblestack/imgs/ce/pic3.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="pic3"
+/>
+
 6. Check the XCode console, you should see a position being printed whenever you finish dragging. Ex. `0.5954198473282443,0.10178117048346055`
 7. Find the `WordsPosition` folder in the project. Add a new file with exact the same name as the image you just added. (i.e. name your file `p104` if your image is named `p104`)
 8. In the newly created file, add `XPosition,YPosition` as the first line of the file.
