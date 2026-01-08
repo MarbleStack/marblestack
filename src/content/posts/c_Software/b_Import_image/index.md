@@ -34,7 +34,12 @@ python main.py
 
 You should see a new window like this.
 
-![default-ui](./imgs/default-ui.png)
+<img 
+    src="/marblestack/imgs/cb/default-ui.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="default-ui"
+/>
 
 We have just verified that you can run this app. Let's close this window for now.
 
@@ -43,13 +48,23 @@ We have just verified that you can run this app. Let's close this window for now
 Now get a screenshot of a Nonogram. It can be something like
 
 
-![puzzle-nonograms](./imgs/puzzle-nonograms.png)
+<img 
+    src="/marblestack/imgs/cb/puzzle-nonograms.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="puzzle-nonograms"
+/>
 
 Puzzle from [puzzle-nonograms.com](https://www.puzzle-nonograms.com/?pl=ede55c17a6df3eefbb822c911757bd136785c9eaa1098)
 
 or
 
-![quicktime_screenshot](./imgs/quicktime_screenshot.png)
+<img 
+    src="/marblestack/imgs/cb/quicktime_screenshot.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="quicktime_screenshot"
+/>
 
 and more... As long as you make sure the contrast between digits and background is high.
 
@@ -57,14 +72,30 @@ and more... As long as you make sure the contrast between digits and background 
 
 The only two things this program cares about in these images are just two grids of numbers. I meant that by
 
-![puzzle-nonograms2](./imgs/puzzle-nonograms2.png)
+<img 
+    src="/marblestack/imgs/cb/puzzle-nonograms2.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="puzzle-nonograms2"
+/>
 
-![quicktime_screenshot2](./imgs/quicktime_screenshot2.png)
+<img 
+    src="/marblestack/imgs/cb/quicktime_screenshot2.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="quicktime_screenshot2"
+/>
 
 <br>
 To make the program be able to recognize these two regions, you will have to know and modify the bounding boxes of them. Such as
 
-![quicktime_screenshot3](./imgs/quicktime_screenshot3.png)
+<img 
+    src="/marblestack/imgs/cb/quicktime_screenshot3.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="quicktime_screenshot3"
+/>
+
 
 Use an image editor to look for these points and record them in `src/image_recognition/ui_position.py`.
 
@@ -97,7 +128,12 @@ Or it's perfectly fine to use the current setting for testing. Run the applicati
 
 Using the default setting, after the program solves the puzzle, you would get
 
-![default-setting](./imgs/default-setting.png)
+<img 
+    src="/marblestack/imgs/cb/default-setting.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="default-setting"
+/>
 
 ---
 
@@ -171,31 +207,62 @@ screenshot = Screenshot("QuickTime Player").image
 
 2 . Before we run the program, we must first set up QuickTime Player. Open QuickTime Player. In the Docker, hover over QuickTime Player. You should see 'New Movie Recording', select it.
 
-![qtp](./imgs/qtp.png)
+<img 
+    src="/marblestack/imgs/cb/qtp.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="qtp"
+/>
 
 3 . Connect your iPad to Mac using USB. Trust your Mac on iPad. 
 
 4 . Select your iPad / iPhone in Movie Recording.
 
-![movie-recording](./imgs/movie-recording.png)
+<img 
+    src="/marblestack/imgs/cb/movie-recording.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="movie-recording"
+/>
 
 5 . Now your QuickTime Player should be projecting your iPad / iPhone in real time. Open a Nonogram game. Here I have chosen Picture Cross.
 
-![ipad-nonogram](./imgs/ipad-nonogram.png)
+<img 
+    src="/marblestack/imgs/cb/ipad-nonogram.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="ipad-nonogram"
+/>
 
 6 . Go to `screenshot.py`, run that script. **It's extremely important to make sure you don't have any window above QuickTime Player.** You should find a new screenshot named `quicktime.png` under `test/screenshot` folder. 
 
-![quicktime](./imgs/quicktime.png)
+<img 
+    src="/marblestack/imgs/cb/quicktime.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="quicktime"
+/>
 
 7 . Input this screenshot to an art editor, find the bounding boxes of the two grids, as described in Step 2. Modify `ui_position.py`. Don't modify the QuickTime window size after you have found those values.
 
 8 . Open Nonogram Solver and click 'Experimental'.
 
-![import-puzzle](./imgs/import-puzzle.png)
+<img 
+    src="/marblestack/imgs/cb/import-puzzle.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="import-puzzle"
+/>
 
 It's working! Okay, I admit it's not working really well in this case. That's why I will be improving it. For now let's manually adjust the grids and run the program.
 
-![final](./imgs/final.png)
+<img 
+    src="/marblestack/imgs/cb/final.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="final"
+/>
+
 
 <br>
 If you are using iPhone Mirroring or any other windows, the logic is the same but you will need to know the name of your window. Change this line in `main.py` to the name of your window.
@@ -224,34 +291,79 @@ Now the program will print all active windows' name.
 
 Next I will be explaining the code intuition behind finding Nonogram puzzles from screenshots. First of all, we have already discussed that we only care about the two grids of numbers.
 
-![puzzle-nonograms2](./imgs/puzzle-nonograms2.png)
+<img 
+    src="/marblestack/imgs/cb/puzzle-nonograms2.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="puzzle-nonograms2"
+/>
 
 1 . Since we have manually set the bounding boxes. We can simplify the screenshot to
 
-![puzzle-nonograms_top](./imgs/puzzle-nonograms_top.png)
+<img 
+    src="/marblestack/imgs/cb/puzzle-nonograms_top.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="nonograms_top"
+/>
 
-![puzzle-nonograms_bottom](./imgs/puzzle-nonograms_bottom.png)
+<img 
+    src="/marblestack/imgs/cb/puzzle-nonograms_bottom.png" 
+    width="80" 
+    style="display:block; margin: 0 auto;"
+    alt="nonograms_bottom"
+/>
 
 2 . Processing binary images (black-and-white) is always preferred in a situation like this one. Let's do that.
 
-![cols_binary1](./imgs/cols_binary1.png)
+<img 
+    src="/marblestack/imgs/cb/cols_binary1.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="cols_binary1"
+/>
 
-![rows_binary1](./imgs/rows_binary1.png)
+<img 
+    src="/marblestack/imgs/cb/rows_binary1.png" 
+    width="80" 
+    style="display:block; margin: 0 auto;"
+    alt="rows_binary1"
+/>
 
 Here is the result came from `Binarizer`. Its threshold might have been set too low so digits like 6 and 8 are not looking great. You can tune this value if you like.
 
 
 Also, here we have a nice example. If we were using the screenshot from Picture Cross, we might get some residual lines (unwanted things), to demonstrate:
 
-![cols_binary](./imgs/cols_binary.png)
+<img 
+    src="/marblestack/imgs/cb/cols_binary.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="cols_binary"
+/>
 
-![rows_binary](./imgs/rows_binary.png)
+<img 
+    src="/marblestack/imgs/cb/rows_binary.png" 
+    width="100" 
+    style="display:block; margin: 0 auto;"
+    alt="rows_binary"
+/>
 
-If it's not obvious to you have painted them red.
+If it's not obvious to you I have painted them red.
 
-![cols_binary-red](./imgs/cols_binary-red.png)
+<img 
+    src="/marblestack/imgs/cb/cols_binary-red.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt="cols_binary-red"
+/>
 
-![rows_binary-red](./imgs/rows_binary-red.png)
+<img 
+    src="/marblestack/imgs/cb/rows_binary-red.png" 
+    width="100" 
+    style="display:block; margin: 0 auto;"
+    alt="rows_binary-red"
+/>
 
 Here I am showing the result after I have attempted removing the residual lines. 
 
@@ -259,7 +371,12 @@ Here I am showing the result after I have attempted removing the residual lines.
 
 The idea is to consider only blobs larger than a certain size. In our case, we chose the value to be 100. Also, the blob size must be above certain height and certain width. For example, all blue blobs in the following image. (This is alternatively removing residual lines.)
 
-![rows_binary-marked](./imgs/rows_binary-marked.png)
+<img 
+    src="/marblestack/imgs/cb/rows_binary-marked.png" 
+    width="100" 
+    style="display:block; margin: 0 auto;"
+    alt="rows_binary-marked"
+/>
 
 
 We can obtain information about the positions of the
@@ -268,14 +385,24 @@ We can obtain information about the positions of the
 - black pixel closest to the bottom
 - black pixel closest to the right
 
-![rows_binary_trimmed](./imgs/rows_binary_trimmed.png)
+<img 
+    src="/marblestack/imgs/cb/rows_binary_trimmed.png" 
+    width="100" 
+    style="display:block; margin: 0 auto;"
+    alt="rows_binary_trimmed"
+/>
 
 I have painted the background with gray so that you can see what I mean by trimming out unnecessary regions.
 
 
 4 . By this point, we can already make a program to determine the dimension of the grid. The idea is to draw a bounding box around every valid blob (blue blobs). Then determine whether a blob is likely to be in an existing row / column or a new row / column. After we perform this step to all blobs, we should get a grid. To demonstrate.
 
-![rows_binary_grid](./imgs/rows_binary_grid.png)
+<img 
+    src="/marblestack/imgs/cb/rows_binary_grid.png" 
+    width="100" 
+    style="display:block; margin: 0 auto;"
+    alt="rows_binary_grid"
+/>
 
 :::note
 It's literally just all these for two integers.
@@ -283,11 +410,21 @@ It's literally just all these for two integers.
 
 5 . The next step is easier. We want to extend the bounding box of the image so that the numbers are not not the edges. Since we know the positions of all blobs, we can calculate the average gaps between them as well. After we get the gap values, extend the image by gap / 2.
 
-![rows_binary_extended](./imgs/rows_binary_extended.png)
+<img 
+    src="/marblestack/imgs/cb/rows_binary_extended.png" 
+    width="100" 
+    style="display:block; margin: 0 auto;"
+    alt="rows_binary_extended"
+/>
 
 6 . Now hopefully, we can cut the image into pieces nicely, like cutting a paper. 
 
-![rows_binary_divided](./imgs/rows_binary_divided.png)
+<img 
+    src="/marblestack/imgs/cb/rows_binary_divided.png" 
+    width="100" 
+    style="display:block; margin: 0 auto;"
+    alt="rows_binary_divided"
+/>
 
 7 . By far we have greatly simplify the job for digit recognizer. Feed each piece to it and in the end return a 2D list with the numbers. Then we convert this list into a `Description` (form a puzzle).
 
