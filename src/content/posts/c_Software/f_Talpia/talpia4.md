@@ -5,6 +5,7 @@ tags: [Tool, Talpia]
 category: Log
 image: './imgs/thumb4.png'
 draft: false
+description: "Let's programmatically generate a transparent background."
 ---
 
 Category: Tutorial

@@ -5,6 +5,7 @@ tags: [Tool, Talpia]
 category: Log
 image: './imgs/thumb3.png'
 draft: false
+description: "Let's save images."
 ---
 
 Category: Tutorial

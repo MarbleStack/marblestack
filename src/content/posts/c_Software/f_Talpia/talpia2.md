@@ -5,6 +5,7 @@ tags: [Tool, Talpia]
 category: Log
 image: './imgs/thumb2.png'
 draft: false
+description: 'Adding colors to my pixel drawer.'
 ---
 
 

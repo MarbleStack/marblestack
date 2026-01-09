@@ -5,6 +5,7 @@ tags: [Tool, Talpia]
 category: Log
 image: './imgs/thumb1.png'
 draft: false
+description: 'Creating a pixel art editor. I write tutorials as I learn!'
 ---
 
 Category: Tutorial
