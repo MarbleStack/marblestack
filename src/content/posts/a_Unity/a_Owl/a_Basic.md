@@ -2,8 +2,8 @@
 title: Otherworld Legends - Modding Tutorial
 published: 2025-05-15
 description: 'Modding tutorial for Steam game Otherworld Legends.'
-image: ''
-tags: [Game]
+image: './imgs/golden_ginzo.png'
+tags: [Game, OWL]
 category: Tutorial
 draft: false
 lang: en      # Set only if the post's language differs from the site's language in `config.ts`

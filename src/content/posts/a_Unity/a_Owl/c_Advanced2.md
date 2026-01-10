@@ -2,8 +2,8 @@
 title: Otherworld Legends - Advanced Modding Tutorial 2
 published: 2025-06-02
 description: 'Advanced modding tutorial 2 for Steam game Otherworld Legends.'
-image: ''
-tags: [Game]
+image: './imgs/test.png'
+tags: [Game, OWL]
 category: Tutorial
 draft: false
 lang: en      # Set only if the post's language differs from the site's language in `config.ts`
@@ -321,3 +321,13 @@ Finally, run **Step 5 of the basic tutorial (addrtool)** — and you’re done.
     style="display:block; margin: 0 auto;"
     alt="test"
 />
+
+<br>
+<br>
+
+💗 If you liked this blog, consider [following me on GitHub](https://github.com/Kolyn090/).
+
+<br>
+<br>
+
+👾 Happy Gaming 👾
