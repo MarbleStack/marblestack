@@ -82,9 +82,6 @@ Todos:
 <br>
 <br>
 
-<br>
-<br>
-
 💗 If you liked this blog, consider [following me on GitHub](https://github.com/Kolyn090/).
 
 <br>
