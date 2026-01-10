@@ -367,7 +367,7 @@ If it's not obvious to you I have painted them red.
 
 Here I am showing the result after I have attempted removing the residual lines. 
 
-3 . Now the residual lines are within an acceptable range. To further enhance our image, we need to trim out unnecessary regions. One way I came up with is to determine blob sizes. If you are confused about what is a blob, check out the first half of [this post](TODO: /svz-pachinko-coins/).
+3 . Now the residual lines are within an acceptable range. To further enhance our image, we need to trim out unnecessary regions. One way I came up with is to determine blob sizes. If you are confused about what is a blob, check out the first half of [this post](/marblestack/posts/y_game/z_svz/c_pachinko_coins/).
 
 The idea is to consider only blobs larger than a certain size. In our case, we chose the value to be 100. Also, the blob size must be above certain height and certain width. For example, all blue blobs in the following image. (This is alternatively removing residual lines.)
 
