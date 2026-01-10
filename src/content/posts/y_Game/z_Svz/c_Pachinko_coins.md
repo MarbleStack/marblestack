@@ -2,7 +2,7 @@
 title: Getting coins amount with Custom Template
 published: 2025-01-04
 image: './imgs/svz-pachinko.png'
-tags: [Game, Svz]
+tags: [Game, SvZ Defense]
 category: Log
 description: 'Use template matching to get the amount of coins.'
 draft: false
