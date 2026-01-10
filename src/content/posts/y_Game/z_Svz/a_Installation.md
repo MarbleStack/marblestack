@@ -1,7 +1,7 @@
 ---
 title: Install SvZ on PC emulator
 published: 2025-01-01
-image: ''
+image: './imgs/svz-blue-stacks.png'
 tags: [Game, Svz]
 category: Tutorial
 description: 'Install Samurai vs. Zombies Defense.'
