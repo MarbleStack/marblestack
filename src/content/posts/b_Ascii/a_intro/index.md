@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 ## 🧭 Detail
 
-[**Edge Trace ASCII Filter**](src/edge_trace/README.md)
+[**Edge Trace ASCII Filter**](/marblestack/posts/b_ascii/b_edge_trace/)
 
 Edge Detection + ASCII character matching
 
@@ -88,11 +88,11 @@ Edge Detection + ASCII character matching
     <img src="/marblestack/imgs/ba/a/main_tsunami.png" width="600">
 </p>
 
-🖼️ Go to [gallery](src/edge_trace/gallery.md) to see more examples!
+🖼️ Go to [gallery](/marblestack/posts/b_ascii/c_edge_trace_gallery/) to see more examples!
 
 ---
 
-[**Depth Shade ASCII Filter**](src/depth_shade/README.md)
+[**Depth Shade ASCII Filter**](/marblestack/posts/b_ascii/e_depth_shade/)
 
 Each shading (gradient) level has its own set of characters. Just need to 
 change one value (thresholds_gamma) to make the algorithm automatically 
@@ -102,11 +102,11 @@ distinguish the gradient level for your!
     <img src="/marblestack/imgs/ba/a/main_monalisa.png" width="600">
 </p>
 
-🖼️ Go to [gallery](src/depth_shade/gallery.md) to see more examples!
+🖼️ Go to [gallery](/marblestack/posts/b_ascii/f_depth_shade_gallery/) to see more examples!
 
 ---
 
-[**Contour Shade ASCII Filter**](src/contour_shade/README.md)
+[**Contour Shade ASCII Filter**](/marblestack/posts/b_ascii/g_contour_shade/)
 
 Shade around the edges.
 
@@ -114,7 +114,7 @@ Shade around the edges.
     <img src="/marblestack/imgs/ba/a/main_tsunami2.png" width="600">
 </p>
 
-🖼️ Go to [gallery](src/contour_shade/gallery.md) to see more examples!
+🖼️ Go to [gallery](/marblestack/posts/b_ascii/h_contour_shade_gallery/) to see more examples!
 
 ---
 

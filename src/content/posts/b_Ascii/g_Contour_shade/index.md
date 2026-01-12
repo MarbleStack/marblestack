@@ -77,7 +77,7 @@ An example of ascii art image:
 
 ---
 
-🖼️ Also check out the [gallery](./gallery.md) for more examples!
+🖼️ Also check out the [gallery](/marblestack/posts/b_ascii/h_contour_shade_gallery/) for more examples!
 
 ---
 

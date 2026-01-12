@@ -119,11 +119,11 @@ to a big negative number (such as -10000).
 More layers will lead the algorithm to be more precise about the shading levels.
 In theory, this will output better quality rendering if you do things correctly.
 Usually for the layers in the higher rank you should use less dense characters. For example:
-```text
+```txt
 . , '
 ```
 For the layers in the lower rank you should use more dense characters. For example:
-```text
+```txt
 % # @
 ```
 The characters are not limited to ASCII characters. You can use other characters as long as 

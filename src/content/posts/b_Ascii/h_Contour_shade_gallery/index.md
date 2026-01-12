@@ -17,7 +17,7 @@ lang: en      # Set only if the post's language differs from the site's language
     <img src="/marblestack/imgs/ba/h/gpe_colored.png" width="400">
 </p>
 
-```commandline
+```cmd
 python contour_shade.py ^
 --image_path ../../resource/imgs/girl_with_pearl_earring.jpg ^
 --resize_factor 4 ^
@@ -32,7 +32,7 @@ python contour_shade.py ^
     <img src="/marblestack/imgs/ba/h/gpe_nonfix.png" width="400">
 </p>
 
-```commandline
+```cmd
 python contour_shade.py ^
 --image_path ../../resource/imgs/girl_with_pearl_earring.jpg ^
 --resize_factor 4 ^

@@ -19,12 +19,12 @@ Art. The following guide describes the process.
 
 2️⃣ Execute `contour.py`.
 **Example**:
-```commandline
+```cmd
 python contour.py --image_path ../../resource/imgs/girl_with_pearl_earring.jpg --canny1_min 0 --canny1_max 270 --canny1_step 20 --canny2_min 0 --canny2_max 270 --canny2_step 20 --dilate_iter 1 --erode_iter 0 --gb_sigmaX 0 --gb_size 5 --contrast_factor 16 --contrast_window_size 8
 ```
 
 **Another Example**:
-```commandline
+```cmd
 python contour.py --image_path ../../resource/imgs/tsunami.jpg --canny1_min 0 --canny1_max 270 --canny1_step 20 --canny2_min 0 --canny2_max 270 --canny2_step 20 --dilate_iter 1 --erode_iter 0 --gb_sigmaX 0 --gb_size 5 --contrast_factor 4 --contrast_window_size 8
 ```
 
@@ -62,22 +62,22 @@ An example of contour image:
 
 2️⃣ Execute `edge_trace.py`.
 **Example**:
-```commandline
+```cmd
 python edge_trace.py --image_path ./contour/contour_180_260.png --resize_factor 4 --chars file --font C:/Windows/Fonts/consolab.ttf --char_bound_width 13 --char_bound_height 22 --match_method slow 
 ```
 
 **Japanese Hiragana**:
-```commandline
+```cmd
 python edge_trace.py --image_path ./contour/contour_240_200.png --resize_factor 4 --chars file --char_bound_height 24 --char_bound_width 22 --font C:/Windows/Fonts/msgothic.ttc --font_size 24 --chars_file_path ../../resource/char_files/chars_file_hiragana.txt --match_method vector --approx_ratio 0.5 --vector_top_k 5 --invert_color
 ```
 
-**An Example using Palette file**, Check out the [palette tutorial](../../palette_tut.md) if you would like to make your own palette:
-```commandline
+**An Example using Palette file**, Check out the [palette tutorial](/marblestack/posts/b_ascii/y_palette_tut/) if you would like to make your own palette:
+```cmd
 python edge_trace.py --image_path ./contour/contour_180_260.png --resize_factor 4 --palette_path ../../resource/palette_files/palette_chars.json --match_method slow
 ```
 
 **If you want to preserve character anti-aliasing**:
-```commandline
+```cmd
 python edge_trace.py --image_path ./contour/contour_180_260.png --resize_factor 4 --palette_path ../../resource/palette_files/palette_chars.json --match_method slow --antialiasing
 ```
 
@@ -170,7 +170,7 @@ An example of ascii art image:
 2️⃣ Execute `joined_trace.py`.
 
 **Example**:
-```commandline
+```cmd
 python joined_trace.py ^
 --image_path ../../resource/imgs/girl_with_pearl_earring.jpg ^
 --canny1 180 ^
@@ -275,7 +275,7 @@ An example of ascii art image:
 
 ---
 
-🖼️ Also check out the [gallery](./gallery.md) for more examples!
+🖼️ Also check out the [gallery](/marblestack/posts/b_ascii/c_edge_trace_gallery/) for more examples!
 
 ---
 

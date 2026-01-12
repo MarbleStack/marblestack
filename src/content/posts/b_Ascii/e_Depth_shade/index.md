@@ -73,7 +73,7 @@ An example of ascii art image (compressed):
 
 ---
 
-🖼️ Also check out the [gallery](./gallery.md) for more examples!
+🖼️ Also check out the [gallery](/marblestack/posts/b_ascii/f_depth_shade_gallery/) for more examples!
 
 ---
 
