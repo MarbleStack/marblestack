@@ -21,7 +21,7 @@ Check out the [palette tutorial](/marblestack/posts/b_ascii/y_palette_tut/).
 
 3️⃣ Execute `depth_shade.py`.
 **Example**:
-```commandline
+```cmd
 python depth_shade.py --image_path ../../resource/imgs/monalisa.jpg --resize_factor 4 --invert_color
 ```
 
