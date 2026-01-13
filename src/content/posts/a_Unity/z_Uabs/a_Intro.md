@@ -11,6 +11,8 @@ lang: en      # Set only if the post's language differs from the site's language
 
 ::github{repo="PapayaModding/UABS"}
 
+👉 中文版在[这里](/marblestack/posts/a_unity/z_uabs/a1_intro_zh/)
+
 UABS (Unity Asset Bundle Seeker) is a modding tool for the Unity Game Engine. Tools like [UABEA](https://github.com/nesrak1/UABEA), [AssetStudio](https://github.com/Perfare/AssetStudio),
 [AssetRipper](https://github.com/AssetRipper/AssetRipper) etc. are popular modding tools, each with their own strength-and the same goes for UABS. The goal of this project is to make searching game assets faster and to streamline the process of mod-making. I am also a mod maker! You can watch my videos on [Bilibili](https://space.bilibili.com/31525265) (Mandarin). I post original modding tutorials from time to time.
 

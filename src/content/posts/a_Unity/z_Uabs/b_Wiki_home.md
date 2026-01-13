@@ -11,6 +11,8 @@ lang: en      # Set only if the post's language differs from the site's language
 
 ::github{repo="PapayaModding/UABS"}
 
+👉 中文版在[这里](/marblestack/posts/a_unity/z_uabs/b1_wiki_home_zh/)
+
 <p align="center">
     <img src="/marblestack/imgs/az/a/logo.png" width="300"/>
 </p>

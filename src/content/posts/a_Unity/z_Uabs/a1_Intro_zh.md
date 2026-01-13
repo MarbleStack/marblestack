@@ -11,6 +11,8 @@ lang: zh      # Set only if the post's language differs from the site's language
 
 ::github{repo="PapayaModding/UABS"}
 
+👉 Translate to [English](/marblestack/posts/a_unity/z_uabs/a_intro/)
+
 UABS (Unity Asset Bundle Seeker或者‘Unity资源包查找工具’) 是一款专门应用于Unity引擎的辅助模组工具。目前市面上已经热门的工具像是有
 [UABEA](https://github.com/nesrak1/UABEA), [AssetStudio](https://github.com/Perfare/AssetStudio),
 [AssetRipper](https://github.com/AssetRipper/AssetRipper) 等等。它们都有各自的特点，该工具也是如此。

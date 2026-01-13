@@ -11,6 +11,8 @@ lang: zh      # Set only if the post's language differs from the site's language
 
 ::github{repo="PapayaModding/UABS"}
 
+👉 Translate to [English](/marblestack/posts/a_unity/z_uabs/c_wiki_user_guide/)
+
 <p align="center">
     <img src="/marblestack/imgs/az/a/logo.png" width="300"/>
 </p>
