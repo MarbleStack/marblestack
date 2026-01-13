@@ -11,7 +11,7 @@ lang: zh      # Set only if the post's language differs from the site's language
 
 本教程的初始版本由bilibili平台[咖喱猫扒饭撰写](https://b23.tv/IkX17vZ)。
 
-🌟 跳转到[进阶教程](TODO: add link)
+🌟 跳转到[进阶教程](/marblestack/posts/a_unity/a_owl/b1_advanced_zh/)
 
 以下内容只针对Steam游戏版本，如需安卓版本教程请读原教程。你也可以将此教程当作参考。
 
@@ -173,7 +173,7 @@ Type是Texture2D的那个文件。如果你看不见Type可以扩展一下你的
 />
 
 :::tip[小贴士]
-完成了基础教程，试试看这个[进阶教程](TODO: add link)吧！
+完成了基础教程，试试看这个[进阶教程](/marblestack/posts/a_unity/a_owl/b1_advanced_zh/)吧！
 :::
 
 ---
