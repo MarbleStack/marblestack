@@ -3,8 +3,8 @@ title: UABS Wiki - Home
 published: 2025-07-18
 description: 'Wiki for UABS'
 image: ''
-tags: [Game, Unity]
-category: Showcase
+tags: [Game, Unity, UABS]
+category: Tutorial
 draft: false
 lang: en      # Set only if the post's language differs from the site's language in `config.ts`
 ---
@@ -28,7 +28,7 @@ This wiki serves as the documentation hub for UABS. Here you’ll find everythin
 <br>
 
 ## 🔗 Quick Links
-- [User Guide](TODO: add link)
+- [User Guide](/marblestack/posts/a_unity/z_uabs/c_wiki_user_guide/)
 
 <br>
 

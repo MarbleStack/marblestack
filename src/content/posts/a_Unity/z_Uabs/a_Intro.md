@@ -2,8 +2,8 @@
 title: UABS
 published: 2025-06-20
 description: 'Unity Asset Bundle Seeker based on AssetsTools.NET, built with Unity.'
-image: ''
-tags: [Game, Unity]
+image: './imgs/logo.png'
+tags: [Game, Unity, UABS]
 category: Showcase
 draft: false
 lang: en      # Set only if the post's language differs from the site's language in `config.ts`
@@ -13,10 +13,6 @@ lang: en      # Set only if the post's language differs from the site's language
 
 UABS (Unity Asset Bundle Seeker) is a modding tool for the Unity Game Engine. Tools like [UABEA](https://github.com/nesrak1/UABEA), [AssetStudio](https://github.com/Perfare/AssetStudio),
 [AssetRipper](https://github.com/AssetRipper/AssetRipper) etc. are popular modding tools, each with their own strength-and the same goes for UABS. The goal of this project is to make searching game assets faster and to streamline the process of mod-making. I am also a mod maker! You can watch my videos on [Bilibili](https://space.bilibili.com/31525265) (Mandarin). I post original modding tutorials from time to time.
-
-<p align="center">
-    <img src="/marblestack/imgs/az/a/logo.png" width="300"/>
-</p>
 
 👉 [Wiki portal](/marblestack/posts/a_unity/z_uabs/b_wiki_home/)
 
