@@ -28,7 +28,7 @@ lang: zh      # Set only if the post's language differs from the site's language
 <br>
 
 ## 🔗 重要链接
-- [使用手册](TODO: add link)
+- [使用手册](/marblestack/posts/a_unity/z_uabs/c1_wiki_user_guide_zh/)
 
 <br>
 
