@@ -1,6 +1,6 @@
 ---
 title: Real ASCII - Palette Tutorial
-published: 2026-01-12
+published: 2025-12-19
 description: 'Learn how to make a palette in Real ASCII.'
 image: ''
 tags: [Tool, Real ASCII]

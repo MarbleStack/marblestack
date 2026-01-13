@@ -1,6 +1,6 @@
 ---
 title: Real ASCII - Depth Shade Filter
-published: 2026-01-12
+published: 2025-12-19
 description: 'Depth Shade Filter tutorial page'
 image: ''
 tags: [Tool, Real ASCII]

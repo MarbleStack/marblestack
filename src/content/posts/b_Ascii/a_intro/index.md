@@ -1,6 +1,6 @@
 ---
 title: Real ASCII
-published: 2026-01-12
+published: 2025-12-11
 description: 'A fast, CLI-first tool for turning images into high-fidelity ASCII art using advanced shading and edge analysis.'
 image: './imgs/main_logo.png'
 tags: [Tool, Real ASCII]

@@ -1,6 +1,6 @@
 ---
 title: Real ASCII - Edge Trace Filter
-published: 2026-01-12
+published: 2025-12-17
 description: 'Edge Trace Filter tutorial page'
 image: ''
 tags: [Tool, Real ASCII]

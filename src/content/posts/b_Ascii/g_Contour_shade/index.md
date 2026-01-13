@@ -1,6 +1,6 @@
 ---
 title: Real ASCII - Contour Shade Filter
-published: 2026-01-12
+published: 2025-12-21
 description: 'Contour Shade Filter tutorial page'
 image: ''
 tags: [Tool, Real ASCII]
