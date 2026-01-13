@@ -185,7 +185,7 @@ Type是Texture2D的那个文件。如果你看不见Type可以扩展一下你的
 <br>
 <br>
 
-💗 如果你觉得这个教程对你有帮助，可以考虑 follow [我的 GitHub 账号](https://github.com/Kolyn090/)吗？非常感谢！
+💗 如果你觉得这个教程对你有帮助，可以 follow [我的 GitHub 账号](https://github.com/Kolyn090/)吗？非常感谢！
 
 <br>
 <br>
