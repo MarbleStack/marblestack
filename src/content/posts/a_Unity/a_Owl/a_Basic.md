@@ -24,10 +24,12 @@ Windows x64
 
 Date: 5/15/2025
 
-⚡ **IMPORTANT**: Modding comes with unknown risks, including potential game 
+:::important
+Modding comes with unknown risks, including potential game 
 instability, corrupted save files, compatibility issues, and even security 
 vulnerabilities. Always back up your game files and proceed with caution.
 Proceed at your own risk – I can't take responsibility if things go sideways.
+:::
 
 # Step 1️⃣
 First, get AssetStudio.net6.v0.16.47 from [AssetStudio](https://github.com/Perfare/AssetStudio/releases). 
@@ -180,7 +182,7 @@ Enter the following command (⚠️This is mine. Remember to change to yours)
 />
 
 :::note[HOORAY]
-🎉 That's all for modifying a hero's skin. Have fun with it.
+🎉 Good job completing the tutorial. Wanna try out the **more advanced** one [here](/marblestack/posts/a_unity/a_owl/b_advanced/)?
 :::
 
 <img 
