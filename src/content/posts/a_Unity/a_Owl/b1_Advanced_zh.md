@@ -31,10 +31,14 @@ lang: zh      # Set only if the post's language differs from the site's language
 
 （成果展示）
 
-⚡ **警告**：模组修改可能带来未知风险，包括游戏不稳定、存档损坏、兼容性问题，甚至安全漏洞。切记备份游戏文件，并谨慎操作。
+:::important[警告]
+模组修改可能带来未知风险，包括游戏不稳定、存档损坏、兼容性问题，甚至安全漏洞。切记备份游戏文件，并谨慎操作。
 风险自担——如果出现问题，我无法承担责任。
+:::
 
-⚡ **警告**：该教程的操作流程非常复杂而且繁琐，请仔细阅读每一步。如果你遇到问题可以发issue提问。
+:::important[警告]
+该教程的操作流程非常复杂而且繁琐，请仔细阅读每一步。如果你遇到问题可以发issue提问。
+:::
 
 ### 步骤1️⃣
 首先，你需要[Unity 2021.3.33f1](https://unity.com/releases/editor/whats-new/2021.3.33)。
@@ -483,4 +487,12 @@ Memory -> Info。和初始教程一样，找到Texture2D文件，Plugins -> Edit
 
 本教程由Kolyn090（bilibili：木瓜凝乳蛋白酶）撰写。
 
-如果你觉得这个教程对你有帮助，可以考虑给此教程一个Star。
+<br>
+<br>
+
+💗 如果你觉得这个教程对你有帮助，可以 follow [我的 GitHub 账号](https://github.com/Kolyn090/)吗？非常感谢！
+
+<br>
+<br>
+
+👾 Happy Gaming 👾
