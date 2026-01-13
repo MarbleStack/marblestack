@@ -11,7 +11,7 @@ lang: en      # Set only if the post's language differs from the site's language
 
 [Original tutorial](https://b23.tv/IkX17vZ) (Chinese) written by 咖喱猫扒饭 on Bilibili.
 
-🌟 中文教程点击[此处](TODO: /README_中文.md)。
+🌟 中文教程点击[此处](/marblestack/posts/a_unity/a_owl/a1_basic_zh/)。
 
 This modding tutorial is intended only for Steam version Otherworld Legends. If you are targeting Android, you will need
 to do a few additional steps to deal with apk. I won't do this unless someone requests it.
