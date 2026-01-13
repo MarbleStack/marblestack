@@ -9,6 +9,8 @@ draft: false
 lang: en      # Set only if the post's language differs from the site's language in `config.ts`
 ---
 
+::github{repo="PapayaModding/Otherworld-Legends-Mod"}
+
 [Original tutorial](https://b23.tv/IkX17vZ) (Chinese) written by 咖喱猫扒饭 on Bilibili.
 
 🌟 中文教程点击[此处](/marblestack/posts/a_unity/a_owl/a1_basic_zh/)。

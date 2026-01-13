@@ -9,6 +9,8 @@ draft: false
 lang: zh      # Set only if the post's language differs from the site's language in `config.ts`
 ---
 
+::github{repo="PapayaModding/Otherworld-Legends-Mod"}
+
 在阅读本教程前，请先学习[基础教程](/marblestack/posts/a_unity/a_owl/a1_basic_zh/)。
 
 作者：Kolyn090

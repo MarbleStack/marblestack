@@ -9,6 +9,8 @@ draft: false
 lang: en      # Set only if the post's language differs from the site's language in `config.ts`
 ---
 
+::github{repo="PapayaModding/Otherworld-Legends-Mod"}
+
 Please read [this tutorial](/marblestack/posts/a_unity/a_owl/a_basic/) first.
 
 Game version used in this tutorial: v2.9.1
