@@ -20,14 +20,17 @@ Windows x64
 This tutorial intends to teach you how to modify game character's Spritesheet 
 **so that you can edit beyond the boundary of the source Sprite.**
 
-<img 
+<figure style="text-align:center;">
+  <img 
     src="/marblestack/imgs/aa/b/advance_in_game_test.png" 
     width="300" 
     style="display:block; margin: 0 auto;"
-    alt="advance_in_game_test"
-/>
-
-(The final result you will get by the end of this tutorial)
+    alt="dotpict-interface"
+  />
+  <figcaption style="font-size:0.85rem; color:#666; margin-top:0.4rem;">
+    (The final result you will get by the end of this tutorial)
+  </figcaption>
+</figure>
 
 :::important
 Modding comes with unknown risks, including potential game 

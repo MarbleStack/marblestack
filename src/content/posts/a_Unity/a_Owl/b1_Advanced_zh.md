@@ -24,14 +24,17 @@ lang: zh      # Set only if the post's language differs from the site's language
 本教程将指引你修改游戏角色图像Spritesheet。
 **这样做的目的是为了让你可以不受原贴图的大小限制修改角色皮肤。**
 
-<img 
+<figure style="text-align:center;">
+  <img 
     src="/marblestack/imgs/aa/b/advance_in_game_test.png" 
     width="300" 
     style="display:block; margin: 0 auto;"
-    alt="advance_in_game_test"
-/>
-
-（成果展示）
+    alt="dotpict-interface"
+  />
+  <figcaption style="font-size:0.85rem; color:#666; margin-top:0.4rem;">
+    （成果展示）
+  </figcaption>
+</figure>
 
 :::important[警告]
 模组修改可能带来未知风险，包括游戏不稳定、存档损坏、兼容性问题，甚至安全漏洞。切记备份游戏文件，并谨慎操作。
