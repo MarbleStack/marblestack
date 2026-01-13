@@ -41,7 +41,7 @@ Content structure and organization may evolve as the site grows.
 
 ---
 
-## 🚀 Development
+## 🚀 Development (Local Only)
 
 Install dependencies:
 
@@ -50,17 +50,29 @@ npm install pnpm
 ```
 
 ```bash
+corepack enable
+```
+
+```bash
+corepack prepare pnpm@latest --activate
+```
+
+```bash
+pnpm install
+```
+
+```bash
 pnpm run dev
 ```
 
-## 🌍 Deployment
+> ⚠️ The hosted site is primarily for personal use.  
+> For development and testing, please run the site locally.
 
-The site is deployed using GitHub Pages.
-After building, the static output is published automatically through CI.
+Open your browser at:
 
-Live site:
-
-https://marblestack.github.io/marblestack/
+```bash
+http://localhost:4321/marblestack/
+```
 
 
 ## 📄 License
