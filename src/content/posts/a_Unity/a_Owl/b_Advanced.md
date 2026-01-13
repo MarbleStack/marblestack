@@ -3,7 +3,7 @@ title: Otherworld Legends - Advanced Modding Tutorial
 published: 2025-05-15
 description: 'Advanced modding tutorial for Steam game Otherworld Legends.'
 image: './imgs/advance_in_game_test.png'
-tags: [Game, OWL]
+tags: [Game, OWL, Unity]
 category: Tutorial
 draft: false
 lang: en      # Set only if the post's language differs from the site's language in `config.ts`
