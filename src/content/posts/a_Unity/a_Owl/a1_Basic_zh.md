@@ -23,8 +23,10 @@ lang: zh      # Set only if the post's language differs from the site's language
 
 教程日期：5/15/2025
 
-⚡ **警告**：模组修改可能带来未知风险，包括游戏不稳定、存档损坏、兼容性问题，甚至安全漏洞。切记备份游戏文件，并谨慎操作。
+:::important[警告]
+模组修改可能带来未知风险，包括游戏不稳定、存档损坏、兼容性问题，甚至安全漏洞。切记备份游戏文件，并谨慎操作。
 风险自担——如果出现问题，我无法承担责任。
+:::
 
 ### 步骤1️⃣
 首先，你需要下载[AssetStudio](https://github.com/Perfare/AssetStudio/releases)。
@@ -180,4 +182,12 @@ Type是Texture2D的那个文件。如果你看不见Type可以扩展一下你的
 
 由原教程作者咖喱猫扒饭授权。被授权bilibili账号：木瓜凝乳蛋白酶
 
-如果你觉得这个教程对你有帮助，可以考虑给[原教程](https://b23.tv/IkX17vZ)三连和给此教程一个Star。
+<br>
+<br>
+
+💗 如果你觉得这个教程对你有帮助，可以考虑 follow [我的 GitHub 账号](https://github.com/Kolyn090/)吗？非常感谢！
+
+<br>
+<br>
+
+👾 Happy Gaming 👾
