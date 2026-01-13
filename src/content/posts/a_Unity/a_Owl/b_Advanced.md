@@ -167,7 +167,7 @@ Find Features -> 2D -> 2D Sprite and download that.
 # Step 4️⃣
 
 Next we will slice the Texture2D into multiple Sprites. 
-Find the [BatchSpriteDumpImporter.cs](https://github.com/JianxinLin28/Otherworld-Legends-Mod/blob/main/scripts/BatchSpriteDumpImporter.cs)
+Find the [BatchSpriteDumpImporter.cs](https://github.com/PapayaModding/Otherworld-Legends-Mod/blob/main/scripts/BatchSpriteDumpImporter.cs)
 script from the 'scripts' folder in this tutorial repo。
 
 Put the csharp script (manually verified AI code✅) inside the 
@@ -265,7 +265,7 @@ Create a new folder inside 'Game Dump', call it 'Temp_Sprite'. From 'Tianrendao_
 />
 (The red part is Tianrendao boss and the rest of them are Quanhuying)
 
-Next, copy [RenameTextAssets.cs](https://github.com/JianxinLin28/Otherworld-Legends-Mod/blob/main/scripts/RenameTextAssets.cs) (manually verified AI code✅) from 'scripts'. After Unity executes it, you should find a new option called Rename TextAssets Window in Tools.
+Next, copy [RenameTextAssets.cs](https://github.com/PapayaModding/Otherworld-Legends-Mod/blob/main/scripts/RenameTextAssets.cs) (manually verified AI code✅) from 'scripts'. After Unity executes it, you should find a new option called Rename TextAssets Window in Tools.
 
 <img 
     src="/marblestack/imgs/aa/b/rename_text_assets.png" 
@@ -340,7 +340,7 @@ Choose 'New...', enter 'unit_hero_quanhuying_bartender'.
     alt="new_bundle_name"
 />
 
-Find [AssetBundleBuilder.cs](https://github.com/JianxinLin28/Otherworld-Legends-Mod/blob/main/scripts/AssetBundleBuilder.cs) in scripts folder and put that in Unity Editor. After Unity executes it, you should see a new option call Build Bundles. Now select bartender Texture2D and click that option.
+Find [AssetBundleBuilder.cs](https://github.com/PapayaModding/Otherworld-Legends-Mod/blob/main/scripts/AssetBundleBuilder.cs) in scripts folder and put that in Unity Editor. After Unity executes it, you should see a new option call Build Bundles. Now select bartender Texture2D and click that option.
 
 <img 
     src="/marblestack/imgs/aa/b/build_bundles.png" 
@@ -425,7 +425,7 @@ Check your 'Source Dump'.
     alt="check_source_dump"
 />
 
-Find [ReplacePathID38.cs](https://github.com/JianxinLin28/Otherworld-Legends-Mod/blob/main/scripts/ReplacePathID38.cs) (manually verified AI code✅) and put that
+Find [ReplacePathID38.cs](https://github.com/PapayaModding/Otherworld-Legends-Mod/blob/main/scripts/ReplacePathID38.cs) (manually verified AI code✅) and put that
 in Unity Editor folder. After Unity executes that you should see a new option called 
 'Replace Line 38 From Folder'. Match 'Source Dump' and 'My Dump' and click 'Replace Line 38'.
 
