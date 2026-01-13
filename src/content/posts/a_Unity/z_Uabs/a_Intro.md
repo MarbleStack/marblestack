@@ -18,7 +18,7 @@ UABS (Unity Asset Bundle Seeker) is a modding tool for the Unity Game Engine. To
     <img src="/marblestack/imgs/az/a/logo.png" width="300"/>
 </p>
 
-👉 [Wiki portal](TODO: add portal)
+👉 [Wiki portal](/marblestack/posts/a_unity/z_uabs/b_wiki_home/)
 
 ## Tool Features
 1. Built-in folder-style browsing.
