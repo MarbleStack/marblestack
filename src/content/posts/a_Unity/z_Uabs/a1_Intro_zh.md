@@ -16,7 +16,7 @@ UABS (Unity Asset Bundle Seeker或者‘Unity资源包查找工具’) 是一款
 [AssetRipper](https://github.com/AssetRipper/AssetRipper) 等等。它们都有各自的特点，该工具也是如此。
 在这个项目里，我的目的是要让文件索取变得更方便快捷以及缩短模组的制作流程。其次我个人也是模组制作者，你可以在[B站](https://space.bilibili.com/31525265)找到我。我会不定期发布一些制作模组的原创教程。
 
-👉 [维基传送门](TODO: add link)
+👉 [维基传送门](/marblestack/posts/a_unity/z_uabs/b1_wiki_home_zh/)
 
 ## 工具特点
 1. 内置文件夹式浏览。
