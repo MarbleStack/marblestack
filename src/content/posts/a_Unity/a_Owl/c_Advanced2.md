@@ -19,26 +19,29 @@ Windows x64
 
 # This tutorial will guide you through modifying images stored in a SpriteAtlas.
 
-<img 
+<figure style="text-align:center;">
+  <img 
     src="/marblestack/imgs/aa/c/test.png" 
     width="300" 
     style="display:block; margin: 0 auto;"
-    alt="test"
-/>
-
-*(Result showcase – Sandbag)*
+    alt="dotpict-interface"
+  />
+  <figcaption style="font-size:0.85rem; color:#666; margin-top:0.4rem;">
+    (Result showcase – Sandbag)
+  </figcaption>
+</figure>
 
 If you have already tried modifying most images other than character sprites using the method described in the advanced tutorial, you probably noticed that it barely works for them.  
 This is because those images are packed using the **SpriteAtlas** method. A major reason is that the file references no longer match correctly.
 
 After completing this tutorial, you should be able to modify most in-game images **without being limited by the original image size**.
 
-:::caution
+:::important
 Modding may introduce unknown risks, including game instability, save corruption, compatibility issues, and even security vulnerabilities. Always back up your game files and proceed carefully.  
 You assume all risks — I cannot take responsibility if problems occur.
 :::
 
-:::note
+:::important
 This workflow is very complex and tedious. Please read every step carefully. If you encounter problems, you can open an issue to ask for help.
 :::
 
@@ -55,14 +58,17 @@ C:\Program Files (x86)\Steam\steamapps\common\Otherworld Legends\Otherworld Lege
 
 Here is the image we want to replace it with:
 
-<img 
+<figure style="text-align:center;">
+  <img 
     src="/marblestack/imgs/aa/c/sactx-0-128x128-BC7-unit_other_pile-1aae59fd.png" 
     width="300" 
     style="display:block; margin: 0 auto;"
-    alt="sactx-0-128x128-BC7-unit_other_pile-1aae59fd"
-/>
-
-[Credit](https://www.spriters-resource.com/pc_computer/pizzatower/sheet/193192/)
+    alt="dotpict-interface"
+  />
+  <figcaption style="font-size:0.85rem; color:#666; margin-top:0.4rem;">
+    Credit: https://www.spriters-resource.com/pc_computer/pizzatower/sheet/193192/
+  </figcaption>
+</figure>
 
 Next, open the Unity project from the advanced tutorial and locate the **Texture2D** folder.
 
