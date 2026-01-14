@@ -4,7 +4,7 @@ published: 2024-05-27
 image: './imgs/banner.png'
 tags: [Game, Monster Hunter]
 category: Log
-description: 'Auto Prestige with iPhone Mirroring and Python.'
+description: 'Exhaustive gear set search for specified skills in Monster Hunter Freedom Unite.'
 draft: false
 ---
 
