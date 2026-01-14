@@ -169,6 +169,7 @@ export default defineConfig({
 					warn(warning);
 				},
 			},
+			sourcemap: false,
 		},
 	},
 });
