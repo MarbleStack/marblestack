@@ -1,6 +1,7 @@
 ---
 title: Monster Hunter Freedom Unite Database
 published: 2024-05-17
+updated: 2026-03-09
 image: './imgs/banner.png'
 tags: [Game, Monster Hunter]
 category: Log
@@ -13,6 +14,24 @@ draft: false
 Welcome to this dedicated repo for a 15 years-old game! If you have played the MH series before, 
 I shall remind you that this is not about MHGU, MHW, MHR, or MH Wild... It's MHFU! 
 (or MHP2G in Japan) 
+
+### 🗿 BIG NEWS: model update coming!
+
+<img 
+    src="/marblestack/imgs/yg/diablos_blender.png" 
+    width="300" 
+    style="display:block; margin: 0 auto;"
+    alt=""
+/>
+
+Recently I have made some luck with extracting 3D models from the game and I have included a sample in the above picture. Although it requires a tremendous amount of effort to rip a model like above, I am interested in doing this in my free time. (Maybe that will make my DB the only place on the internet to find MHFU models? LOL) **That being said, if you want to upload them to places like [The Spriters Resource](https://www.spriters-resource.com/browse/), please ASK ME. It takes A LOT works to rip the models.** For other use cases like use them in your software, I'm completely OK with it.
+
+Another note, I'm going to rename Image DB to Asset DB and all ripped models will be stored there, along with the images. 
+
+💖 If you love mhfu-db, please consider give it a ⭐! Your support will make me happy. 🤗
+
+### 🖼️ Image DB
+Good news! Recently I have been working on the image database for MHFU. If you want to check it out [click here](https://github.com/Kolyn090/mhfu-image-db.git).
 
 ### ❓What is this
 This is a database repo for game Monster Hunter Freedom Unite by CAPCOM. My current plan is to 

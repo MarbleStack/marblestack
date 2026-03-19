@@ -1,5 +1,5 @@
 ---
-title: Getting game resources from Crazy Flasher (Stream)
+title: Getting game resources from Crazy Flasher (Steam)
 published: 2026-03-12
 image: './imgs/andy.png'
 tags: [Game, Crazy Flasher]
