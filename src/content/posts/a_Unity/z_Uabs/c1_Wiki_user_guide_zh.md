@@ -17,7 +17,7 @@ lang: zh      # Set only if the post's language differs from the site's language
     <img src="/marblestack/imgs/az/a/logo.png" width="300"/>
 </p>
 
-教程使用版本 [v1.0.3-Beta](https://github.com/Kolyn090/UABS/releases/tag/v1.0.3-beta)。
+教程使用版本 [v1.0.3-Beta](https://github.com/PapayaModding/UABS/releases/tag/v1.0.3-beta)。
 
 ⛳ 特注：我已经将可管理缓存(manual cache)重新命名为资源容器(package)。如果你使用的是v1.0.3-Beta以外的版本请务必注意。
 
@@ -46,7 +46,7 @@ lang: zh      # Set only if the post's language differs from the site's language
 <a name="getting-started"></a>
 ## 🟢 启动软件
 
-1. 在[这里](https://github.com/Kolyn090/UABS/releases)下载任意版本。
+1. 在[这里](https://github.com/PapayaModding/UABS/releases)下载任意版本。
 2. 解压后打开里面叫‘UABS'的可执行文件，或者使用Unity版本如果你使用的是开发环境。
 
 <img width="700" alt="getting-started1" src="https://github.com/user-attachments/assets/7f216209-d70f-4537-905f-6f942ab395de" />

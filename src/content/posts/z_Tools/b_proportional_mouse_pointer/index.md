@@ -65,7 +65,7 @@ This will involve knowing the absolute position, the current window's width and 
 
 # Step 3️⃣
 
-::github{repo="Kolyn090/KeyTouchArcade"}
+::github{repo="JianxinLin28/KeyTouchArcade"}
 
 First of all, I want you to clone this repository. It's called `KeyTouchArcade`. Although it doesn't sound like it has anything to do with our problems, it indeed contains code that offers great help for us.
 

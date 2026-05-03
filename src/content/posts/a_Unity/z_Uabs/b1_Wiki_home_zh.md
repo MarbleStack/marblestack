@@ -40,7 +40,7 @@ UABS 目前还处在开发阶段。
 
 有部分功能可能不完善或者是具有实验性的。
 
-欢迎[在这里](https://github.com/Kolyn090/UABS/releases)查看最新版本。
+欢迎[在这里](https://github.com/PapayaModding/UABS/releases)查看最新版本。
 
 <br>
 
@@ -48,7 +48,7 @@ UABS 目前还处在开发阶段。
 
 如果你遇到了问题，可以：
 
-- 发一个[Issue](https://github.com/Kolyn090/UABS/issues)
+- 发一个[Issue](https://github.com/PapayaModding/UABS/issues)
 - 在[B站](https://space.bilibili.com/31525265)私发消息给我。
 
 <br>

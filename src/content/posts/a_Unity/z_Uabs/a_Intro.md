@@ -60,7 +60,7 @@ This tool is still under development, so not all features are complete yet.
 
 ## Installation
 Standalone software:
-To install software, go to [Releases](https://github.com/Kolyn090/UABS/releases). Download the zip file and unzip it. Open UABS executable file to run the software.
+To install software, go to [Releases](https://github.com/PapayaModding/UABS/releases). Download the zip file and unzip it. Open UABS executable file to run the software.
 
 Developmental environment:
 Download Unity (recommend 2021.3.33f1). Clone or Fork this repo and open the folder 'UABS' in Unity. After that (in Unity) from the folder 'Scenes' open scene 'UABS'. I highly recommend you to use 2D view + do not apply Skybox.
@@ -78,7 +78,7 @@ A: I don’t think the Unity version is a major issue. This tool is heavily base
 
 Q2: Will you release this as a standalone app?
 
-A: Yes, a standalone version is available on the [Releases page](https://github.com/Kolyn090/UABS/releases).
+A: Yes, a standalone version is available on the [Releases page](https://github.com/PapayaModding/UABS/releases).
 However, please note that some features require the Unity development environment.
 If you're only using the tool for asset browsing, the standalone app is sufficient.
 

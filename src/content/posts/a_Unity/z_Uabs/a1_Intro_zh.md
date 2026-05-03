@@ -64,7 +64,7 @@ UABS (Unity Asset Bundle Seeker或者‘Unity资源包查找工具’) 是一款
 
 ## 安装
 独立软件：
-下载软件请移步[Releases页面](https://github.com/Kolyn090/UABS/releases)。
+下载软件请移步[Releases页面](https://github.com/PapayaModding/UABS/releases)。
 下载zip文件后使用解压工具进行解压。打开UABS可执行文件即可运行。
 
 开发环境：
@@ -84,7 +84,7 @@ UABS (Unity Asset Bundle Seeker或者‘Unity资源包查找工具’) 是一款
 
 问题二：你会把这个工具做成一个独立软件吗？
 
-答：独立软件可以在[Releases](https://github.com/Kolyn090/UABS/releases)下载。不过要注意部分功能会需要用到Unity开发环境。但如果你只是将软件用于查询目的则只需要独立软件就可以。
+答：独立软件可以在[Releases](https://github.com/PapayaModding/UABS/releases)下载。不过要注意部分功能会需要用到Unity开发环境。但如果你只是将软件用于查询目的则只需要独立软件就可以。
 
 ---
 

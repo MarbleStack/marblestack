@@ -12,6 +12,11 @@ Category: Tutorial
 
 Prerequisite: Know how to use a computer and perform online searches
 
+:::caution
+Many links in this blog are obsolete. Please only use as a guide!
+:::
+
+
 :::important
 Since 2026/01/07, I have chosen to migrate my blog base to [Fuwari](https://github.com/saicaca/fuwari.git) and I might take down the old website permanently. This means that you might not be able to clone the repo mentioned in this blog. I have chosen Fuwari due to its simplicity, removing a significant amount of things out of my concern, which to me is acceptable. If you want to build a highly customizable static web page, jekyll for github.io is still a great choice. 
 :::

@@ -8,14 +8,14 @@ description: 'Exhaustive gear set search for specified skills in Monster Hunter 
 draft: false
 ---
 
-::github{repo="Kolyn090/mhfu-gear-simulator"}
+::github{repo="JianxinLin28/mhfu-gear-simulator"}
 
 Welcome to this dedicated repo for a 15 years-old game! If you have played the MH series before, 
 I shall remind you that this is not about MHGU, MHW, MHR, or MH Wild... It's MHFU! 
 (or MHP2G in Japan) 
 
 ### ❓What is this
-This is a gear simulator for game Monster Hunter Freedom Unite by CAPCOM. You can use this to simulate different sets of armors in game. The data used is from [another repo of mine](https://github.com/Kolyn090/mhfu-db.git) I have written one gear simulator years ago, but that one was for MHP2G (MHFU in 🇯🇵) You can check it [here](https://github.com/Kolyn090/mh2g-gear-simulator.git). 
+This is a gear simulator for game Monster Hunter Freedom Unite by CAPCOM. You can use this to simulate different sets of armors in game. The data used is from [another repo of mine](https://github.com/JianxinLin28/mhfu-db.git) I have written one gear simulator years ago, but that one was for MHP2G (MHFU in 🇯🇵) You can check it [here](https://github.com/JianxinLin28/mh2g-gear-simulator.git). 
 
 ### 📔Terminology
 Armor: The playable character in MHFU can wear *five* different parts of armor: helmet, plate, gauntlet, waist, legging. They are individually referred as armor.

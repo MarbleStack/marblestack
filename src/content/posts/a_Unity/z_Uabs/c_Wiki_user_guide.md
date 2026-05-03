@@ -17,7 +17,7 @@ lang: en      # Set only if the post's language differs from the site's language
     <img src="/marblestack/imgs/az/a/logo.png" width="300"/>
 </p>
 
-Tutorial version [v1.0.3-Beta](https://github.com/Kolyn090/UABS/releases/tag/v1.0.3-beta).
+Tutorial version [v1.0.3-Beta](https://github.com/PapayaModding/UABS/releases/tag/v1.0.3-beta).
 
 ⛳ Note: I have renamed manual cache to user package after v1.0.3-Beta. If you are working with another version you should refer 'Cache' as
 'Package'. 
@@ -47,7 +47,7 @@ Welcome to the **UABS User Guide**. This guide walks you through how to use the 
 <a name="getting-started"></a>
 ## 🟢 Getting Started
 
-1. Download the any release from the [Releases](https://github.com/Kolyn090/UABS/releases) page.
+1. Download the any release from the [Releases](https://github.com/PapayaModding/UABS/releases) page.
 2. Launch the standalone `.exe` or open the Unity project if you're using the dev version.
 
 

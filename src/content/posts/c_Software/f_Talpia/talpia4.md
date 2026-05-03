@@ -13,7 +13,7 @@ Category: Tutorial
 
 Prerequisite: Basic Python
 
-::github{repo="Kolyn090/talpia"}
+::github{repo="JianxinLin28/talpia"}
 
 <br>
 <br>
@@ -157,7 +157,7 @@ Now we end up with
 
 That’s all for today. I haven’t figure out a good way to implement layers yet. But don’t worry! I'll write another tutorial after I made some new progress.
 
-Find the code on my [GitHub page](https://github.com/Kolyn090/talpia), under the part_4 directory.
+Find the code on my [GitHub page](https://github.com/JianxinLin28/talpia), under the part_4 directory.
 
 
 

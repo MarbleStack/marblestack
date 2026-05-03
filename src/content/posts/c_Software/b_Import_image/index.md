@@ -13,9 +13,9 @@ Prerequisite: Basic Python
 
 ## Introduction
 
-::github{repo="Kolyn090/nonogram"}
+::github{repo="JianxinLin28/nonogram"}
 
-[Nonogram Solver](https://github.com/Kolyn090/nonogram.git) is a puzzle solver for [Nonogram](https://en.wikipedia.org/wiki/Nonogram) I made a while ago. Its algorithm is based on [fedimser](https://github.com/fedimser)'s [nonolab](https://github.com/fedimser/nonolab).
+[Nonogram Solver](https://github.com/JianxinLin28/nonogram.git) is a puzzle solver for [Nonogram](https://en.wikipedia.org/wiki/Nonogram) I made a while ago. Its algorithm is based on [fedimser](https://github.com/fedimser)'s [nonolab](https://github.com/fedimser/nonolab).
 
 Nonogram Solver currently supports solving Nonogram puzzles, importing puzzles, and exporting puzzles. **Most importantly, importing puzzles from images.** Today I will be teaching you how to import puzzle from image in Nonogram Solver.
 
@@ -23,7 +23,7 @@ Nonogram Solver currently supports solving Nonogram puzzles, importing puzzles, 
 Clone this project to your computer.
 
 ```cmd
-git clone https://github.com/Kolyn090/nonogram.git
+git clone https://github.com/JianxinLin28/nonogram.git
 ```
 
 # Step 2️⃣

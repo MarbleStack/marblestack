@@ -38,14 +38,14 @@ This wiki serves as the documentation hub for UABS. Here you’ll find everythin
 
 UABS is currently in active development.  
 Some features may be incomplete or experimental.  
-Check out the [Releases](https://github.com/Kolyn090/UABS/releases) page for the latest builds.
+Check out the [Releases](https://github.com/PapayaModding/UABS/releases) page for the latest builds.
 
 <br>
 
 ## 🙋 Need Help?
 
 If you run into issues or have questions:
-- Open an [Issue](https://github.com/Kolyn090/UABS/issues)
+- Open an [Issue](https://github.com/PapayaModding/UABS/issues)
 - PM me on [Bilibili](https://space.bilibili.com/31525265)
 
 <br>

@@ -13,7 +13,7 @@ Category: Tutorial
 
 Prerequisite: Basic Python
 
-::github{repo="Kolyn090/talpia"}
+::github{repo="JianxinLin28/talpia"}
 
 <br>
 <br>
@@ -271,7 +271,7 @@ After saving, get
 Awesome!
 
 
-Find the code on my [GitHub page](https://github.com/Kolyn090/talpia), under the part_3 directory.
+Find the code on my [GitHub page](https://github.com/JianxinLin28/talpia), under the part_3 directory.
 
 
 

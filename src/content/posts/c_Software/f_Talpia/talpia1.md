@@ -13,7 +13,7 @@ Category: Tutorial
 
 Prerequisite: Basic Python
 
-::github{repo="Kolyn090/talpia"}
+::github{repo="JianxinLin28/talpia"}
 
 <br>
 <br>
@@ -420,7 +420,7 @@ Thank you for reading. Stay tunned for update!
 <br>
 PS: This article was originally named "Returning to python-1". 
 
-I decided to give this project a name to make myself (a little) more motivated. You can find the code on my [GitHub page](https://github.com/Kolyn090/talpia), under the part_1 directory.
+I decided to give this project a name to make myself (a little) more motivated. You can find the code on my [GitHub page](https://github.com/JianxinLin28/talpia), under the part_1 directory.
 
 
 <br>

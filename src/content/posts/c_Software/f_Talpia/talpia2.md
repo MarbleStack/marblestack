@@ -14,7 +14,7 @@ Category: Tutorial
 
 Prerequisite: Basic Python
 
-::github{repo="Kolyn090/talpia"}
+::github{repo="JianxinLin28/talpia"}
 
 <br>
 <br>

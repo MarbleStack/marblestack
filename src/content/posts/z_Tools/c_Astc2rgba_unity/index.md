@@ -9,7 +9,7 @@ draft: false
 lang: en      # Set only if the post's language differs from the site's language in `config.ts`
 ---
 
-::github{repo="Kolyn090/ASTC2RGBA-Unity"}
+::github{repo="JianxinLin28/ASTC2RGBA-Unity"}
 
 Project base on [astc-encoder](https://github.com/ARM-software/astc-encoder). If you use ASTC2RGBA-Unity, please make sure you include the same license in your project, as it is required by the original project.
 

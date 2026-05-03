@@ -13,7 +13,7 @@ Category: App Showcase
 
 License: MIT License
 
-::github{repo="Kolyn090/Clockdile"}
+::github{repo="JianxinLin28/Clockdile"}
 
 ## Introduction
 Cute desktop pet! 🐊 Keeps track time & daily water consumption for you.
@@ -36,7 +36,7 @@ Cute desktop pet! 🐊 Keeps track time & daily water consumption for you.
 # Development
 In terminal, run the following:
 ```cmd
-git clone https://github.com/Kolyn090/Clockdile.git
+git clone https://github.com/JianxinLin28/Clockdile.git
 ```
 
 # Application
